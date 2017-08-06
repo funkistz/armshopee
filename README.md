@@ -76,7 +76,7 @@ example : url: 'products',
           
           - name = 'product_name'
           - type = 'simple'
-          - categories =  
+          - categories = [
                           ['id' => 1],
                           ['id' => 2]
                          ]
