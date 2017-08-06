@@ -130,6 +130,7 @@ parameter need to be either 'update' or 'create'
 
 example : url : 'products/batch'
           parameter = 
+          
           'create' => [
                         [
                           'name' => ''
